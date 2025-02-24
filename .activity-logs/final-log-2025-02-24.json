@@ -1,16 +1,19 @@
 {
   "date": "2025-02-24",
-  "summary": "- src\\components\\Hero.jsx: 3 changes",
+  "summary": "- src\\components\\Skills.jsx: 11 changes\n- src\\components\\Hero.jsx: 8 changes\n- vite.config.ts: 6 changes\n- profile\\svg\\jupyter.svg: 4 changes\n- profile\\svg: 2 changes\n- profile\\svg\\css-3.svg: 2 changes\n- profile\\svg\\javascript.svg: 2 changes\n- profile\\svg\\c.svg: 2 changes\n- profile\\svg\\file-type-html.svg: 2 changes\n- profile\\svg\\file-type-python.svg: 2 changes\n- profile\\svg\\github.svg: 2 changes\n- profile\\svg\\icons8-git.svg: 2 changes\n- profile\\svg\\java.svg: 2 changes\n- profile\\svg\\mysql-original-wordmark.svg: 2 changes\n- profile\\svg\\nextjs.svg: 2 changes\n- profile\\svg\\mongodb-original-wordmark.svg: 2 changes\n- profile\\svg\\express.svg: 2 changes\n- profile\\svg\\react-original-wordmark.svg: 2 changes\n- profile\\svg\\visual-studio-code.svg: 2 changes\n- profile\\svg\\nodejs.svg: 2 changes\n- src\\components\\Background3D.jsx: 2 changes\n- src\\components\\CursorEffect.jsx: 2 changes\n- src\\components\\Navbar.jsx: 2 changes",
   "statistics": {
-    "totalFiles": 1,
-    "totalChanges": 3,
-    "mostEditedFile": "src\\components\\Hero.jsx",
-    "workDuration": "3h 3m",
+    "totalFiles": 23,
+    "totalChanges": 67,
+    "mostEditedFile": "src\\components\\Skills.jsx",
+    "workDuration": "4h 43m",
     "fileTypes": {
-      "jsx": 3
+      "jsx": 25,
+      "ts": 6,
+      "unknown": 2,
+      "svg": 34
     },
-    "peakActivityHour": "0:00-1:00",
-    "totalLinesChanged": 430
+    "peakActivityHour": "2:00-3:00",
+    "totalLinesChanged": 3320
   },
   "projectDetails": {
     "branch": "main",
